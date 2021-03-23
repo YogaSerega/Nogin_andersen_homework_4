@@ -54,7 +54,7 @@ class Stack {
             newStack.push(iterable[i])
          }
       }
-      newStack.count = iterable.length
+     
       return newStack
    }
 
